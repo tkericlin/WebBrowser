@@ -1,0 +1,13 @@
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Form1.resources
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.exe
+c:\documents and settings\user1\my documents\visual studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.pdb
+C:\Users\TK\Documents\Visual Studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.exe
+C:\Users\TK\Documents\Visual Studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Form1.resources
+C:\Users\TK\Documents\Visual Studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\TK\Documents\Visual Studio 2010\Projects\WebBrowser\WebBrowser\obj\x86\Debug\WebBrowser.csproj.GenerateResource.Cache
